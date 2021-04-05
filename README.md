@@ -9,3 +9,4 @@ Example project that shows how to design a Goertzel filter with AXI4 Stream inte
 - **matlab/model_biquad_wfa.slx** Model used to generate the IP on WFA.
 - **matlab/model_biquad.slx** Goertzel filter model using biquad block.
 - **matlab/signal_to_test_generate.m** Script to generate test signal to compare model and implementation behavior.
+- **vivado/ip_repo/axis_goertzel_ip_v1_0** IP repository.
